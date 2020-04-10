@@ -16,7 +16,4 @@ Those are the best!
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz |
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence |
 | All Upper I | https://py.checkio.org/en/mission/all-upper |
-
-
-
-
+| Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i |
