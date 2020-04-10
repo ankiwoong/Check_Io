@@ -17,3 +17,5 @@ Those are the best!
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence |
 | All Upper I | https://py.checkio.org/en/mission/all-upper |
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i |
+| Number Length | https://py.checkio.org/en/mission/number-length |
+
