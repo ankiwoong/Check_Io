@@ -14,6 +14,8 @@ Those are the best!
 | First Word(simplified) | https://py.checkio.org/en/mission/first-word-simplified |
 | Say Hi | https://py.checkio.org/en/mission/say-history |
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz |
+| Correct Sentence | https://py.checkio.org/en/mission/correct-sentence |
+
 
 
 
