@@ -21,6 +21,8 @@ Those are the best!
 | End Zeros | https://py.checkio.org/en/mission/end-zeros |
 | Backward String | https://py.checkio.org/en/mission/backward-string |
 | Remove All Before | https://py.checkio.org/en/mission/remove-all-before |
+| Replace First | https://py.checkio.org/en/mission/replace-first |
+
 
 
 
