@@ -44,6 +44,7 @@ if __name__ == '__main__':
 
 def first_word(text: str):
     # strip하고 split를 사용하여 문자를 잘라낸다.
+    # strip와 split 사용 위치를 잘 체크해야된다.
     text = text.strip().split()
     # 리턴값은 입력받은 값에 맨 처음 단어만 출력해야되므로 인덱싱 번호는 0을 출력한다.
     return text[0]
