@@ -19,5 +19,6 @@ Those are the best!
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i |
 | Number Length | https://py.checkio.org/en/mission/number-length |
 | End Zeros | https://py.checkio.org/en/mission/end-zeros |
+| Backward String | https://py.checkio.org/en/mission/backward-string |
 
 
