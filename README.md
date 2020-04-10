@@ -15,6 +15,7 @@ Those are the best!
 | Say Hi | https://py.checkio.org/en/mission/say-history |
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz |
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence |
+| All Upper I | https://py.checkio.org/en/mission/all-upper |
 
 
 
