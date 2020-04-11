@@ -21,15 +21,11 @@ checkio(6) == "Fizz"
 checkio(5) == "Buzz"
 checkio(7) == "7"
     
-1
-2
-3
-4
-5
-6
-How it is used: Here you can learn how to write the simplest function and work with if-else statements.
+How it is used:
+Here you can learn how to write the simplest function and work with if-else statements.
 
-Precondition: 0 < number ≤ 1000
+Precondition:
+0 < number ≤ 1000
 
 # Your optional code here
 # You can import some modules or create additional functions
