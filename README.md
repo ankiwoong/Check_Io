@@ -23,7 +23,7 @@ Those are the best!
 | Split Pairs | https://py.checkio.org/en/mission/split-pairs | https://developer-ankiwoong.tistory.com/867 |
 | Beginning Zeros | https://py.checkio.org/en/mission/beginning-zeros | https://developer-ankiwoong.tistory.com/868 |
 | Nearest Value | https://py.checkio.org/en/mission/nearest-value | https://developer-ankiwoong.tistory.com/869 |
-| Between Markers(simplified) | https://py.checkio.org/en/mission/between-markers-simplified |
+| Between Markers(simplified) | https://py.checkio.org/en/mission/between-markers-simplified | https://developer-ankiwoong.tistory.com/870 |
 
 ---
 
