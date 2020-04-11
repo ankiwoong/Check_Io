@@ -14,7 +14,7 @@ Those are the best!
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence | https://developer-ankiwoong.tistory.com/858 |
 | All Upper I | https://py.checkio.org/en/mission/all-upper | https://developer-ankiwoong.tistory.com/859 |
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i | https://developer-ankiwoong.tistory.com/860 |
-| Number Length | https://py.checkio.org/en/mission/number-length |
+| Number Length | https://py.checkio.org/en/mission/number-length | https://developer-ankiwoong.tistory.com/861 |
 | End Zeros | https://py.checkio.org/en/mission/end-zeros |
 | Backward String | https://py.checkio.org/en/mission/backward-string |
 | Remove All Before | https://py.checkio.org/en/mission/remove-all-before |
