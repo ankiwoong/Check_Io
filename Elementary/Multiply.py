@@ -16,25 +16,26 @@ Int.
 Example:
 mult_two(2, 3) == 6
 mult_two(1, 0) == 0
-1
-2
+
 How does it work?:
-
 When you start solving the initial code is always consists of an “empty” function (which you need to fill in as the solution) and asserts under this function. You should pay attention to is that your function should return values, and not to print them. That is, use the return command instead of the print function. Check this short explanation.
-
 The asserts after your function you can use in order to check yourself by pressing the “Run” button (). CheckiO also uses several additional tests in order to check your solution when you click the “Check” button ().
-
 If the solution didn’t pass the internal tests, the right panel will display an error message containing 3 items.
 
-Fail: - shows how your function was called.
-Your Result: - shows what it returned.
-Right Result: - what it should’ve returned.
+Fail:
+- shows how your function was called.
+
+Your Result:
+- shows what it returned.
+
+Right Result: 
+- what it should’ve returned.
+
 To solve the task the “empty” function must be replaced with the following code.
 
 def mult_two(a: int, b: int) -> int:
     return a*b
-1
-2
+
 Try to click “Check” button now.
 
 If the solution passes all the tests, the congratulations should appear on the right panel along with a suggestion for the following action. (Yes, this is not the end of the story).
