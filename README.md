@@ -35,3 +35,5 @@ Enjoy!
 | Title | URL | Solve |
 | :---: | :---: | :---: |
 | Between Markers | https://py.checkio.org/en/mission/between-markers |
+| First Word | https://py.checkio.org/en/mission/first-word |
+
