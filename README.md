@@ -16,7 +16,7 @@ Those are the best!
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i | https://developer-ankiwoong.tistory.com/860 |
 | Number Length | https://py.checkio.org/en/mission/number-length | https://developer-ankiwoong.tistory.com/861 |
 | End Zeros | https://py.checkio.org/en/mission/end-zeros | https://developer-ankiwoong.tistory.com/862 |
-| Backward String | https://py.checkio.org/en/mission/backward-string |
+| Backward String | https://py.checkio.org/en/mission/backward-string | https://developer-ankiwoong.tistory.com/863 |
 | Remove All Before | https://py.checkio.org/en/mission/remove-all-before |
 | Replace First | https://py.checkio.org/en/mission/replace-first |
 | Max Digit | https://py.checkio.org/en/mission/max-digit |
