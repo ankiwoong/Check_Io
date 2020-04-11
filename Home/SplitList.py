@@ -35,7 +35,9 @@ if __name__ == '__main__':
 
 
 def split_list(items: list):
+    # 나눌 인덱스 번호를 구하기 위해서 items에 원소갯수를 2로 나눈 나머지에 2를 더하고 다시 원소갯수로 나눈 몫을 가져온다.
     item_index_number = len(items) // 2 + len(items) % 2
+    # 그렇게 구한 인덱스 번호를 슬라이싱을 통해서 가져와서 반환한다.
     return [items[:item_index_number], items[item_index_number:]]
 
 
