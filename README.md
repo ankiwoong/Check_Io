@@ -22,9 +22,11 @@ Those are the best!
 | Max Digit | https://py.checkio.org/en/mission/max-digit | https://developer-ankiwoong.tistory.com/866 |
 | Split Pairs | https://py.checkio.org/en/mission/split-pairs | https://developer-ankiwoong.tistory.com/867 |
 | Beginning Zeros | https://py.checkio.org/en/mission/beginning-zeros | https://developer-ankiwoong.tistory.com/868 |
-| Nearest Value | https://py.checkio.org/en/mission/nearest-value |
+| Nearest Value | https://py.checkio.org/en/mission/nearest-value | https://developer-ankiwoong.tistory.com/869 |
 | Between Markers(simplified) | https://py.checkio.org/en/mission/between-markers-simplified |
+
 ---
+
 # Home (5% / 100%)
 Congratulations!<br>
 Your first island has been opened.<br>
