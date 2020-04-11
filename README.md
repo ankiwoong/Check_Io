@@ -25,7 +25,7 @@ Those are the best!
 | Nearest Value | https://py.checkio.org/en/mission/nearest-value |
 | Between Markers(simplified) | https://py.checkio.org/en/mission/between-markers-simplified |
 ---
-# Home (0% / 100%)
+# Home (5% / 100%)
 Congratulations!<br>
 Your first island has been opened.<br>
 Here you'll find slightly more complicated missions, but also more islands can become available for you.<br>
