@@ -22,7 +22,4 @@ Those are the best!
 | Backward String | https://py.checkio.org/en/mission/backward-string |
 | Remove All Before | https://py.checkio.org/en/mission/remove-all-before |
 | Replace First | https://py.checkio.org/en/mission/replace-first |
-
-
-
-
+| Max Digit | https://py.checkio.org/en/mission/max-digit |
