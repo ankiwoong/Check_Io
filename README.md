@@ -23,3 +23,4 @@ Those are the best!
 | Remove All Before | https://py.checkio.org/en/mission/remove-all-before |
 | Replace First | https://py.checkio.org/en/mission/replace-first |
 | Max Digit | https://py.checkio.org/en/mission/max-digit |
+| Split Pairs | https://py.checkio.org/en/mission/split-pairs |
