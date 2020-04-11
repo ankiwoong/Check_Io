@@ -27,7 +27,7 @@ Those are the best!
 
 ---
 
-# Home (5% / 100%)
+# Home (10% / 100%)
 Congratulations!<br>
 Your first island has been opened.<br>
 Here you'll find slightly more complicated missions, but also more islands can become available for you.<br>
@@ -35,3 +35,5 @@ Enjoy!
 | Title | URL | Solve |
 | :---: | :---: | :---: |
 | Between Markers | https://py.checkio.org/en/mission/between-markers |
+| First Word | https://py.checkio.org/en/mission/first-word |
+
