@@ -1,5 +1,4 @@
 > Check_Io 문제 풀이
----
 # Elementary
 ## 100% / 100%
 Before a big journey begins, let's warmup a bit.<br>
