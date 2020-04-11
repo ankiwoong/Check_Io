@@ -18,7 +18,7 @@ Those are the best!
 | End Zeros | https://py.checkio.org/en/mission/end-zeros | https://developer-ankiwoong.tistory.com/862 |
 | Backward String | https://py.checkio.org/en/mission/backward-string | https://developer-ankiwoong.tistory.com/863 |
 | Remove All Before | https://py.checkio.org/en/mission/remove-all-before | https://developer-ankiwoong.tistory.com/864 |
-| Replace First | https://py.checkio.org/en/mission/replace-first |
+| Replace First | https://py.checkio.org/en/mission/replace-first | https://developer-ankiwoong.tistory.com/865 |
 | Max Digit | https://py.checkio.org/en/mission/max-digit |
 | Split Pairs | https://py.checkio.org/en/mission/split-pairs |
 | Beginning Zeros | https://py.checkio.org/en/mission/beginning-zeros |
