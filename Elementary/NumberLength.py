@@ -10,7 +10,6 @@ Output:
 An Int.
 
 Example:
-
 number_length(10) == 2
 number_length(0) == 1
 
