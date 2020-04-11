@@ -9,22 +9,24 @@ Those are the best!
 | Multiply(Intro) | https://py.checkio.org/en/mission/multiply-intro | https://developer-ankiwoong.tistory.com/853 |
 | Easy Unpack | https://py.checkio.org/en/mission/easy-unpack | https://developer-ankiwoong.tistory.com/854 |
 | First Word(simplified) | https://py.checkio.org/en/mission/first-word-simplified | https://developer-ankiwoong.tistory.com/855 |
-| Say Hi | https://py.checkio.org/en/mission/say-history |
-| Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz |
-| Correct Sentence | https://py.checkio.org/en/mission/correct-sentence |
-| All Upper I | https://py.checkio.org/en/mission/all-upper |
-| Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i |
-| Number Length | https://py.checkio.org/en/mission/number-length |
-| End Zeros | https://py.checkio.org/en/mission/end-zeros |
-| Backward String | https://py.checkio.org/en/mission/backward-string |
-| Remove All Before | https://py.checkio.org/en/mission/remove-all-before |
-| Replace First | https://py.checkio.org/en/mission/replace-first |
-| Max Digit | https://py.checkio.org/en/mission/max-digit |
-| Split Pairs | https://py.checkio.org/en/mission/split-pairs |
-| Beginning Zeros | https://py.checkio.org/en/mission/beginning-zeros |
-| Nearest Value | https://py.checkio.org/en/mission/nearest-value |
-| Between Markers(simplified) | https://py.checkio.org/en/mission/between-markers-simplified |
+| Say Hi | https://py.checkio.org/en/mission/say-history | https://developer-ankiwoong.tistory.com/856 |
+| Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
+| Correct Sentence | https://py.checkio.org/en/mission/correct-sentence | https://developer-ankiwoong.tistory.com/858 |
+| All Upper I | https://py.checkio.org/en/mission/all-upper | https://developer-ankiwoong.tistory.com/859 |
+| Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i | https://developer-ankiwoong.tistory.com/860 |
+| Number Length | https://py.checkio.org/en/mission/number-length | https://developer-ankiwoong.tistory.com/861 |
+| End Zeros | https://py.checkio.org/en/mission/end-zeros | https://developer-ankiwoong.tistory.com/862 |
+| Backward String | https://py.checkio.org/en/mission/backward-string | https://developer-ankiwoong.tistory.com/863 |
+| Remove All Before | https://py.checkio.org/en/mission/remove-all-before | https://developer-ankiwoong.tistory.com/864 |
+| Replace First | https://py.checkio.org/en/mission/replace-first | https://developer-ankiwoong.tistory.com/865 |
+| Max Digit | https://py.checkio.org/en/mission/max-digit | https://developer-ankiwoong.tistory.com/866 |
+| Split Pairs | https://py.checkio.org/en/mission/split-pairs | https://developer-ankiwoong.tistory.com/867 |
+| Beginning Zeros | https://py.checkio.org/en/mission/beginning-zeros | https://developer-ankiwoong.tistory.com/868 |
+| Nearest Value | https://py.checkio.org/en/mission/nearest-value | https://developer-ankiwoong.tistory.com/869 |
+| Between Markers(simplified) | https://py.checkio.org/en/mission/between-markers-simplified | https://developer-ankiwoong.tistory.com/870 |
+
 ---
+
 # Home (5% / 100%)
 Congratulations!<br>
 Your first island has been opened.<br>
