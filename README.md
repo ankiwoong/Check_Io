@@ -25,3 +25,4 @@ Those are the best!
 | Max Digit | https://py.checkio.org/en/mission/max-digit |
 | Split Pairs | https://py.checkio.org/en/mission/split-pairs |
 | Beginning Zeros | https://py.checkio.org/en/mission/beginning-zeros |
+| Nearest Value | https://py.checkio.org/en/mission/nearest-value |
