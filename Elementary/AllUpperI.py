@@ -14,11 +14,9 @@ is_all_upper('ALL UPPER') == True
 is_all_upper('all lower') == False
 is_all_upper('mixed UPPER and lower') == False
 is_all_upper('') == True
-1
-2
-3
-4
-Precondition: a-z, A-Z, 1-9 and spaces
+
+Precondition:
+a-z, A-Z, 1-9 and spaces
 
 def is_all_upper(text: str) -> bool:
     # your code here
