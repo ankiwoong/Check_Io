@@ -12,7 +12,7 @@ Those are the best!
 | Say Hi | https://py.checkio.org/en/mission/say-history | https://developer-ankiwoong.tistory.com/856 |
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence | https://developer-ankiwoong.tistory.com/858 |
-| All Upper I | https://py.checkio.org/en/mission/all-upper |
+| All Upper I | https://py.checkio.org/en/mission/all-upper | https://developer-ankiwoong.tistory.com/859 |
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i |
 | Number Length | https://py.checkio.org/en/mission/number-length |
 | End Zeros | https://py.checkio.org/en/mission/end-zeros |
