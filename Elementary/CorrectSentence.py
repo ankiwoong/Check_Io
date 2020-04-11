@@ -15,10 +15,9 @@ Example:
 correct_sentence("greetings, friends") == "Greetings, friends."
 correct_sentence("Greetings, friends") == "Greetings, friends."
 correct_sentence("Greetings, friends.") == "Greetings, friends."
-1
-2
-3
-Precondition: No leading and trailing spaces, text contains only spaces, a-z A-Z , and .
+
+Precondition:
+No leading and trailing spaces, text contains only spaces, a-z A-Z , and .
 
 def correct_sentence(text: str) -> str:
     """
