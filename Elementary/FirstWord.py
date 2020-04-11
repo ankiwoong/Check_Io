@@ -16,10 +16,12 @@ A string.
 
 Example:
 first_word("Hello world") == "Hello"
-1
-How it is used: The first word is a command in a command line.
 
-Precondition: Text can contain a-z, A-Z and spaces.
+How it is used:
+The first word is a command in a command line.
+
+Precondition:
+Text can contain a-z, A-Z and spaces.
 
 def first_word(text: str) -> str:
     """
