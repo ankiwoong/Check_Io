@@ -10,7 +10,6 @@ Output:
 A string.
 
 Example:
-
 backward_string('val') == 'lav'
 backward_string('') == ''
 backward_string('ohho') == 'ohho'
