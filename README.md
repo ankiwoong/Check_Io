@@ -1,5 +1,3 @@
-
----
 > Check_Io 문제 풀이
 ---
 # Elementary
