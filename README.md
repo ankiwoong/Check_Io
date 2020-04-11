@@ -9,8 +9,8 @@ Those are the best!
 | Multiply(Intro) | https://py.checkio.org/en/mission/multiply-intro | https://developer-ankiwoong.tistory.com/853 |
 | Easy Unpack | https://py.checkio.org/en/mission/easy-unpack | https://developer-ankiwoong.tistory.com/854 |
 | First Word(simplified) | https://py.checkio.org/en/mission/first-word-simplified | https://developer-ankiwoong.tistory.com/855 |
-| Say Hi | https://py.checkio.org/en/mission/say-history | https://developer-ankiwoong.tistory.com/856 | https://developer-ankiwoong.tistory.com/857 |
-| Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz |
+| Say Hi | https://py.checkio.org/en/mission/say-history | https://developer-ankiwoong.tistory.com/856 |
+| Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence |
 | All Upper I | https://py.checkio.org/en/mission/all-upper |
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i |
