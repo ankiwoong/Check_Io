@@ -19,7 +19,7 @@ Those are the best!
 | Backward String | https://py.checkio.org/en/mission/backward-string | https://developer-ankiwoong.tistory.com/863 |
 | Remove All Before | https://py.checkio.org/en/mission/remove-all-before | https://developer-ankiwoong.tistory.com/864 |
 | Replace First | https://py.checkio.org/en/mission/replace-first | https://developer-ankiwoong.tistory.com/865 |
-| Max Digit | https://py.checkio.org/en/mission/max-digit |
+| Max Digit | https://py.checkio.org/en/mission/max-digit | https://developer-ankiwoong.tistory.com/866 |
 | Split Pairs | https://py.checkio.org/en/mission/split-pairs |
 | Beginning Zeros | https://py.checkio.org/en/mission/beginning-zeros |
 | Nearest Value | https://py.checkio.org/en/mission/nearest-value |
