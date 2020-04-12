@@ -38,4 +38,4 @@ Enjoy!
 | First Word | https://py.checkio.org/en/mission/first-word | https://developer-ankiwoong.tistory.com/873 |
 | Split List | https://py.checkio.org/en/mission/split-list | https://developer-ankiwoong.tistory.com/874 |
 | Sum Numbers | https://py.checkio.org/en/mission/sum-numbers | https://developer-ankiwoong.tistory.com/875 |
-| Even the Last | https://py.checkio.org/en/mission/even-last |
+| Even the Last | https://py.checkio.org/en/mission/even-last | https://developer-ankiwoong.tistory.com/876 |
