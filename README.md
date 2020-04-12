@@ -37,5 +37,5 @@ Enjoy!
 | Between Markers | https://py.checkio.org/en/mission/between-markers | https://developer-ankiwoong.tistory.com/872 |
 | First Word | https://py.checkio.org/en/mission/first-word | https://developer-ankiwoong.tistory.com/873 |
 | Split List | https://py.checkio.org/en/mission/split-list | https://developer-ankiwoong.tistory.com/874 |
-| Sum Numbers | https://py.checkio.org/en/mission/sum-numbers |
+| Sum Numbers | https://py.checkio.org/en/mission/sum-numbers | https://developer-ankiwoong.tistory.com/875 |
 | Even the Last | https://py.checkio.org/en/mission/even-last |
