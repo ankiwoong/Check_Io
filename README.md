@@ -39,3 +39,4 @@ Enjoy!
 | Split List | https://py.checkio.org/en/mission/split-list | https://developer-ankiwoong.tistory.com/874 |
 | Sum Numbers | https://py.checkio.org/en/mission/sum-numbers | https://developer-ankiwoong.tistory.com/875 |
 | Even the Last | https://py.checkio.org/en/mission/even-last | https://developer-ankiwoong.tistory.com/876 |
+| Right to Left | https://py.checkio.org/en/mission/right-to-left/ |
