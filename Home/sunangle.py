@@ -14,7 +14,6 @@ Output:
 The angle of the sun, rounded to 2 decimal places.
 
 Example:
-
 sun_angle("07:00") == 15
 sun_angle("12:15"] == 93.75
 sun_angle("01:23") == "I don't see the sun!"
