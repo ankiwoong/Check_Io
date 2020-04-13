@@ -53,9 +53,11 @@ Enjoy!
 | Count Digits | https://py.checkio.org/en/mission/count-digits |
 | Find Quotes | https://py.checkio.org/en/mission/find-quotes |
 | Backward Each Word | https://py.checkio.org/en/mission/backward-each-word |
+
 ---
 
-# Electronic Station (0% / 100%)
+# Electronic Station (2% / 100%)
 True or False, that is the question! And for most of the missions here you'll have to figure out the answer.
 | Title | URL | Solve |
 | :---: | :---: | :---: |
+| Acceptable Password II | https://py.checkio.org/en/mission/acceptable-password-ii |
