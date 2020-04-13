@@ -47,3 +47,4 @@ Enjoy!
 | Sun Angle | https://py.checkio.org/en/mission/sun-angle |
 | Pawn Brotherhood | https://py.checkio.org/en/mission/pawn-brotherhood |
 | Sort Array by Element Frequency | https://py.checkio.org/en/mission/sort-array-by-element-frequency |
+| Popular Words | https://py.checkio.org/en/mission/popular-words |
