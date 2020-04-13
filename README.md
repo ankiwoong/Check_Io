@@ -27,7 +27,7 @@ Those are the best!
 
 ---
 
-# Home (80% / 100%)
+# Home (89% / 100%)
 Congratulations!<br>
 Your first island has been opened.<br>
 Here you'll find slightly more complicated missions, but also more islands can become available for you.<br>
@@ -50,3 +50,4 @@ Enjoy!
 | Popular Words | https://py.checkio.org/en/mission/popular-words |
 | Non-unique Elements | https://py.checkio.org/en/mission/non-unique-elements |
 | All the Same | https://py.checkio.org/en/mission/all-the-same |
+| Count Digits | https://py.checkio.org/en/mission/count-digits |
