@@ -27,7 +27,7 @@ Those are the best!
 
 ---
 
-# Home (22% / 100%)
+# Home (39% / 100%)
 Congratulations!<br>
 Your first island has been opened.<br>
 Here you'll find slightly more complicated missions, but also more islands can become available for you.<br>
