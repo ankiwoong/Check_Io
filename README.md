@@ -57,7 +57,8 @@ Enjoy!
 ---
 
 # Electronic Station (2% / 100%)
-True or False, that is the question! And for most of the missions here you'll have to figure out the answer.
+True or False, that is the question!<br>
+And for most of the missions here you'll have to figure out the answer.
 | Title | URL | Solve |
 | :---: | :---: | :---: |
 | Acceptable Password II | https://py.checkio.org/en/mission/acceptable-password-ii |
