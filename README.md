@@ -45,3 +45,4 @@ Enjoy!
 | Bigger Price | https://py.checkio.org/en/mission/bigger-price |
 | Digits Multiplication | https://py.checkio.org/en/mission/digits-multiplication |
 | Sun Angle | https://py.checkio.org/en/mission/sun-angle |
+| Pawn Brotherhood | https://py.checkio.org/en/mission/pawn-brotherhood |
