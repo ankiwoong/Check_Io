@@ -27,7 +27,7 @@ Those are the best!
 
 ---
 
-# Home (39% / 100%)
+# Home (45% / 100%)
 Congratulations!<br>
 Your first island has been opened.<br>
 Here you'll find slightly more complicated missions, but also more islands can become available for you.<br>
@@ -43,3 +43,4 @@ Enjoy!
 | Days Between | https://py.checkio.org/en/mission/days-diff |
 | Second Index | https://py.checkio.org/en/mission/second-index |
 | Bigger Price | https://py.checkio.org/en/mission/bigger-price |
+| Digits Multiplication | https://py.checkio.org/en/mission/digits-multiplication |
