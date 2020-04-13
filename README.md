@@ -42,3 +42,4 @@ Enjoy!
 | Right to Left | https://py.checkio.org/en/mission/right-to-left |
 | Days Between | https://py.checkio.org/en/mission/days-diff |
 | Second Index | https://py.checkio.org/en/mission/second-index |
+| Bigger Price | https://py.checkio.org/en/mission/bigger-price |
