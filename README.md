@@ -42,7 +42,7 @@ Enjoy!
 | Right to Left | https://py.checkio.org/en/mission/right-to-left | https://developer-ankiwoong.tistory.com/877 |
 | Days Between | https://py.checkio.org/en/mission/days-diff | https://developer-ankiwoong.tistory.com/878 |
 | Second Index | https://py.checkio.org/en/mission/second-index | https://developer-ankiwoong.tistory.com/879 |
-| Bigger Price | https://py.checkio.org/en/mission/bigger-price |
+| Bigger Price | https://py.checkio.org/en/mission/bigger-price | https://developer-ankiwoong.tistory.com/880 |
 | Digits Multiplication | https://py.checkio.org/en/mission/digits-multiplication |
 | Sun Angle | https://py.checkio.org/en/mission/sun-angle |
 | Pawn Brotherhood | https://py.checkio.org/en/mission/pawn-brotherhood |
