@@ -39,7 +39,7 @@ Enjoy!
 | Split List | https://py.checkio.org/en/mission/split-list | https://developer-ankiwoong.tistory.com/874 |
 | Sum Numbers | https://py.checkio.org/en/mission/sum-numbers | https://developer-ankiwoong.tistory.com/875 |
 | Even the Last | https://py.checkio.org/en/mission/even-last | https://developer-ankiwoong.tistory.com/876 |
-| Right to Left | https://py.checkio.org/en/mission/right-to-left |
+| Right to Left | https://py.checkio.org/en/mission/right-to-left | | https://developer-ankiwoong.tistory.com/877 |
 | Days Between | https://py.checkio.org/en/mission/days-diff |
 | Second Index | https://py.checkio.org/en/mission/second-index |
 | Bigger Price | https://py.checkio.org/en/mission/bigger-price |
@@ -67,4 +67,4 @@ And for most of the missions here you'll have to figure out the answer.
 | Acceptable Password V | https://py.checkio.org/en/mission/acceptable-password-v |
 | Acceptable Password VI | https://py.checkio.org/en/mission/acceptable-password-vi |
 | Acceptable Password VI | https://py.checkio.org/en/mission/acceptable-password-vi |
-| All Upper II | https://py.checkio.org/en/mission/all-upper-ii |
+| All Upper II | https://py.checkio.org/en/mission/all-upper-ii | 
