@@ -65,3 +65,4 @@ And for most of the missions here you'll have to figure out the answer.
 | Acceptable Password III | https://py.checkio.org/en/mission/acceptable-password-iii |
 | Acceptable Password IV | https://py.checkio.org/en/mission/acceptable-password-iv |
 | Acceptable Password V | https://py.checkio.org/en/mission/acceptable-password-v |
+| Acceptable Password VI | https://py.checkio.org/en/mission/acceptable-password-vi |
