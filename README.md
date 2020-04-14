@@ -56,7 +56,7 @@ Enjoy!
 
 ---
 
-# Electronic Station (8% / 100%)
+# Electronic Station (11% / 100%)
 True or False, that is the question!<br>
 And for most of the missions here you'll have to figure out the answer.
 | Title | URL | Solve |
@@ -64,3 +64,4 @@ And for most of the missions here you'll have to figure out the answer.
 | Acceptable Password II | https://py.checkio.org/en/mission/acceptable-password-ii |
 | Acceptable Password III | https://py.checkio.org/en/mission/acceptable-password-iii |
 | Acceptable Password IV | https://py.checkio.org/en/mission/acceptable-password-iv |
+| Acceptable Password V | https://py.checkio.org/en/mission/acceptable-password-v |
