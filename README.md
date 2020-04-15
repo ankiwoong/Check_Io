@@ -48,7 +48,7 @@ Enjoy!
 | Pawn Brotherhood | https://py.checkio.org/en/mission/pawn-brotherhood | https://developer-ankiwoong.tistory.com/883 |
 | Sort Array by Element Frequency | https://py.checkio.org/en/mission/sort-array-by-element-frequency | https://developer-ankiwoong.tistory.com/884 |
 | Popular Words | https://py.checkio.org/en/mission/popular-words | https://developer-ankiwoong.tistory.com/885 |
-| Non-unique Elements | https://py.checkio.org/en/mission/non-unique-elements |
+| Non-unique Elements | https://py.checkio.org/en/mission/non-unique-elements | https://developer-ankiwoong.tistory.com/886 |
 | All the Same | https://py.checkio.org/en/mission/all-the-same |
 | Count Digits | https://py.checkio.org/en/mission/count-digits |
 | Find Quotes | https://py.checkio.org/en/mission/find-quotes |
