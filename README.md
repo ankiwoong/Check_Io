@@ -44,7 +44,7 @@ Enjoy!
 | Second Index | https://py.checkio.org/en/mission/second-index | https://developer-ankiwoong.tistory.com/879 |
 | Bigger Price | https://py.checkio.org/en/mission/bigger-price | https://developer-ankiwoong.tistory.com/880 |
 | Digits Multiplication | https://py.checkio.org/en/mission/digits-multiplication | https://developer-ankiwoong.tistory.com/881 |
-| Sun Angle | https://py.checkio.org/en/mission/sun-angle |
+| Sun Angle | https://py.checkio.org/en/mission/sun-angle | https://developer-ankiwoong.tistory.com/882 |
 | Pawn Brotherhood | https://py.checkio.org/en/mission/pawn-brotherhood |
 | Sort Array by Element Frequency | https://py.checkio.org/en/mission/sort-array-by-element-frequency |
 | Popular Words | https://py.checkio.org/en/mission/popular-words |
