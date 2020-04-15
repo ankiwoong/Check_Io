@@ -51,7 +51,7 @@ Enjoy!
 | Non-unique Elements | https://py.checkio.org/en/mission/non-unique-elements | https://developer-ankiwoong.tistory.com/886 |
 | All the Same | https://py.checkio.org/en/mission/all-the-same | https://developer-ankiwoong.tistory.com/887 |
 | Count Digits | https://py.checkio.org/en/mission/count-digits | https://developer-ankiwoong.tistory.com/888 |
-| Find Quotes | https://py.checkio.org/en/mission/find-quotes |
+| Find Quotes | https://py.checkio.org/en/mission/find-quotes | https://developer-ankiwoong.tistory.com/889 |
 | Backward Each Word | https://py.checkio.org/en/mission/backward-each-word |
 
 ---
