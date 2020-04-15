@@ -46,7 +46,7 @@ Enjoy!
 | Digits Multiplication | https://py.checkio.org/en/mission/digits-multiplication | https://developer-ankiwoong.tistory.com/881 |
 | Sun Angle | https://py.checkio.org/en/mission/sun-angle | https://developer-ankiwoong.tistory.com/882 |
 | Pawn Brotherhood | https://py.checkio.org/en/mission/pawn-brotherhood | https://developer-ankiwoong.tistory.com/883 |
-| Sort Array by Element Frequency | https://py.checkio.org/en/mission/sort-array-by-element-frequency |
+| Sort Array by Element Frequency | https://py.checkio.org/en/mission/sort-array-by-element-frequency | https://developer-ankiwoong.tistory.com/884 |
 | Popular Words | https://py.checkio.org/en/mission/popular-words |
 | Non-unique Elements | https://py.checkio.org/en/mission/non-unique-elements |
 | All the Same | https://py.checkio.org/en/mission/all-the-same |
