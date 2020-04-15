@@ -49,7 +49,7 @@ Enjoy!
 | Sort Array by Element Frequency | https://py.checkio.org/en/mission/sort-array-by-element-frequency | https://developer-ankiwoong.tistory.com/884 |
 | Popular Words | https://py.checkio.org/en/mission/popular-words | https://developer-ankiwoong.tistory.com/885 |
 | Non-unique Elements | https://py.checkio.org/en/mission/non-unique-elements | https://developer-ankiwoong.tistory.com/886 |
-| All the Same | https://py.checkio.org/en/mission/all-the-same |
+| All the Same | https://py.checkio.org/en/mission/all-the-same | https://developer-ankiwoong.tistory.com/887 |
 | Count Digits | https://py.checkio.org/en/mission/count-digits |
 | Find Quotes | https://py.checkio.org/en/mission/find-quotes |
 | Backward Each Word | https://py.checkio.org/en/mission/backward-each-word |
