@@ -43,7 +43,7 @@ Enjoy!
 | Days Between | https://py.checkio.org/en/mission/days-diff | https://developer-ankiwoong.tistory.com/878 |
 | Second Index | https://py.checkio.org/en/mission/second-index | https://developer-ankiwoong.tistory.com/879 |
 | Bigger Price | https://py.checkio.org/en/mission/bigger-price | https://developer-ankiwoong.tistory.com/880 |
-| Digits Multiplication | https://py.checkio.org/en/mission/digits-multiplication |
+| Digits Multiplication | https://py.checkio.org/en/mission/digits-multiplication | https://developer-ankiwoong.tistory.com/881 |
 | Sun Angle | https://py.checkio.org/en/mission/sun-angle |
 | Pawn Brotherhood | https://py.checkio.org/en/mission/pawn-brotherhood |
 | Sort Array by Element Frequency | https://py.checkio.org/en/mission/sort-array-by-element-frequency |
