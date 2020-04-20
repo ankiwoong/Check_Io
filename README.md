@@ -71,3 +71,4 @@ And for most of the missions here you'll have to figure out the answer.
 | Ascending List | https://py.checkio.org/en/mission/ascending-list | 
 | Unix Match. Part 1 | https://py.checkio.org/en/mission/unix-match-part-1 | 
 | Unix Match. Part 2 | https://py.checkio.org/en/mission/unix-match-part-2 | 
+| Find Sequence | https://py.checkio.org/en/mission/find-sequence | 
