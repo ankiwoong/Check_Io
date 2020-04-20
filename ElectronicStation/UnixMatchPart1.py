@@ -62,6 +62,7 @@ def unix_match(filename: str, pattern: str):
     pat = pattern.replace('.', '\\.').replace('?', '.').replace('*', '.*')
     # 위에 만든 패턴을 filename과 매칭 해봐서 매칭이 되면 None을 돌려주므로 비교를 해서 None이면 True를 반환해준다.
     return re.match(pat, filename) is not None
+    # return re.match(pat, filename) != None
 
 
 if __name__ == '__main__':
