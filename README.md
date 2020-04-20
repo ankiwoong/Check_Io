@@ -70,3 +70,4 @@ And for most of the missions here you'll have to figure out the answer.
 | All Upper II | https://py.checkio.org/en/mission/all-upper-ii | 
 | Ascending List | https://py.checkio.org/en/mission/ascending-list | 
 | Unix Match. Part 1 | https://py.checkio.org/en/mission/unix-match-part-1 | 
+| Unix Match. Part 2 | https://py.checkio.org/en/mission/unix-match-part-2 | 
