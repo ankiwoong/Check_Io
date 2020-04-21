@@ -56,7 +56,7 @@ Enjoy!
 
 ---
 
-# Electronic Station (11% / 100%)
+# Electronic Station (51% / 100%)
 True or False, that is the question!<br>
 And for most of the missions here you'll have to figure out the answer.
 | Title | URL | Solve |
@@ -72,4 +72,5 @@ And for most of the missions here you'll have to figure out the answer.
 | Unix Match. Part 1 | https://py.checkio.org/en/mission/unix-match-part-1 | 
 | Unix Match. Part 2 | https://py.checkio.org/en/mission/unix-match-part-2 | 
 | Find Sequence | https://py.checkio.org/en/mission/find-sequence | 
-| Surjection Strings | https://py.checkio.org/en/mission/isometric-strings | 
+| Surjection Strings | https://py.checkio.org/en/mission/isometric-strings |
+| Similar Triangles | https://py.checkio.org/en/mission/similar-triangles |
