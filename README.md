@@ -53,7 +53,7 @@ Enjoy!
 | Find Quotes | https://py.checkio.org/en/mission/find-quotes | https://developer-ankiwoong.tistory.com/889 |
 | Backward Each Word | https://py.checkio.org/en/mission/backward-each-word | https://developer-ankiwoong.tistory.com/890 |
 | Three Words | https://py.checkio.org/en/mission/three-words | https://developer-ankiwoong.tistory.com/892 |
-| Date and Time Converter | https://py.checkio.org/en/mission/date-and-time-converter |
+| Date and Time Converter | https://py.checkio.org/en/mission/date-and-time-converter | https://developer-ankiwoong.tistory.com/893 |
 
 ---
 
