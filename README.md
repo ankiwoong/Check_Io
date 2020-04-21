@@ -88,3 +88,4 @@ Can you dig it?
 | Best Stock | https://py.checkio.org/en/mission/best-stock |
 | Binary Count | https://py.checkio.org/en/mission/binary-count |
 | Achilles and the Tortoise | https://py.checkio.org/en/mission/achilles-tortoise |
+| Caesar Cipher (encryptor) | https://py.checkio.org/en/mission/caesar-cipher-encryptor |
