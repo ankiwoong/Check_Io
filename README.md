@@ -78,7 +78,7 @@ And for most of the missions here you'll have to figure out the answer.
 
 ---
 
-# Mine (2% / 100%)
+# Mine (11% / 100%)
 Explore the deep mines beneath CheckiO!<br>
 Help Nicola build a set of pipes for the Pumping Station and invent a calculator that changes the very laws of mathematics!<br>
 Can you dig it?
@@ -87,3 +87,4 @@ Can you dig it?
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
 | Best Stock | https://py.checkio.org/en/mission/best-stock |
 | Binary Count | https://py.checkio.org/en/mission/binary-count |
+| Achilles and the Tortoise | https://py.checkio.org/en/mission/achilles-tortoise |
