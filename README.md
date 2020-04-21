@@ -10,7 +10,6 @@ Those are the best!
 | Easy Unpack | https://py.checkio.org/en/mission/easy-unpack | https://developer-ankiwoong.tistory.com/854 |
 | First Word(simplified) | https://py.checkio.org/en/mission/first-word-simplified | https://developer-ankiwoong.tistory.com/855 |
 | Say Hi | https://py.checkio.org/en/mission/say-history | https://developer-ankiwoong.tistory.com/856 |
-| Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence | https://developer-ankiwoong.tistory.com/858 |
 | All Upper I | https://py.checkio.org/en/mission/all-upper | https://developer-ankiwoong.tistory.com/859 |
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i | https://developer-ankiwoong.tistory.com/860 |
@@ -76,3 +75,10 @@ And for most of the missions here you'll have to figure out the answer.
 | Find Sequence | https://py.checkio.org/en/mission/find-sequence | 
 | Surjection Strings | https://py.checkio.org/en/mission/isometric-strings |
 | Similar Triangles | https://py.checkio.org/en/mission/similar-triangles |
+
+---
+
+# Mine (2% / 100%)
+| Title | URL | Solve |
+| :---: | :---: | :---: |
+| Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
