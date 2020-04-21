@@ -85,3 +85,4 @@ Can you dig it?
 | Title | URL | Solve |
 | :---: | :---: | :---: |
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
+| Best Stock | https://py.checkio.org/en/mission/best-stock |
