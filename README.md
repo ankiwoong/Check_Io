@@ -86,3 +86,4 @@ Can you dig it?
 | :---: | :---: | :---: |
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
 | Best Stock | https://py.checkio.org/en/mission/best-stock |
+| Binary Count | https://py.checkio.org/en/mission/binary-count |
