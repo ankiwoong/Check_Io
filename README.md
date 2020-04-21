@@ -79,6 +79,9 @@ And for most of the missions here you'll have to figure out the answer.
 ---
 
 # Mine (2% / 100%)
+Explore the deep mines beneath CheckiO!<br>
+Help Nicola build a set of pipes for the Pumping Station and invent a calculator that changes the very laws of mathematics!<br>
+Can you dig it?
 | Title | URL | Solve |
 | :---: | :---: | :---: |
 | Fizz Buzz | https://py.checkio.org/en/mission/fizz-buzz | https://developer-ankiwoong.tistory.com/857 |
