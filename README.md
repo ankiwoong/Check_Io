@@ -53,6 +53,7 @@ Enjoy!
 | Count Digits | https://py.checkio.org/en/mission/count-digits | https://developer-ankiwoong.tistory.com/888 |
 | Find Quotes | https://py.checkio.org/en/mission/find-quotes | https://developer-ankiwoong.tistory.com/889 |
 | Backward Each Word | https://py.checkio.org/en/mission/backward-each-word | https://developer-ankiwoong.tistory.com/890 |
+| Three Words | https://py.checkio.org/en/mission/three-words |
 
 ---
 
