@@ -65,7 +65,7 @@ And for most of the missions here you'll have to figure out the answer.
 | Acceptable Password II | https://py.checkio.org/en/mission/acceptable-password-ii | https://developer-ankiwoong.tistory.com/894 |
 | Acceptable Password III | https://py.checkio.org/en/mission/acceptable-password-iii | https://developer-ankiwoong.tistory.com/895 |
 | Acceptable Password IV | https://py.checkio.org/en/mission/acceptable-password-iv | https://developer-ankiwoong.tistory.com/896 |
-| Acceptable Password V | https://py.checkio.org/en/mission/acceptable-password-v |
+| Acceptable Password V | https://py.checkio.org/en/mission/acceptable-password-v | https://developer-ankiwoong.tistory.com/897 |
 | Acceptable Password VI | https://py.checkio.org/en/mission/acceptable-password-vi |
 | Acceptable Password VI | https://py.checkio.org/en/mission/acceptable-password-vi |
 | All Upper II | https://py.checkio.org/en/mission/all-upper-ii | 
