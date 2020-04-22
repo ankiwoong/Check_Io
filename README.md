@@ -90,3 +90,4 @@ Can you dig it?
 | Achilles and the Tortoise | https://py.checkio.org/en/mission/achilles-tortoise |
 | Caesar Cipher (encryptor) | https://py.checkio.org/en/mission/caesar-cipher-encryptor |
 | The Greatest Common Divisor | https://py.checkio.org/en/mission/gcd |
+| Can Balance | https://py.checkio.org/en/mission/can-balance |
