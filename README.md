@@ -90,3 +90,4 @@ Can you dig it?
 | Caesar Cipher (encryptor) | https://py.checkio.org/en/mission/caesar-cipher-encryptor |
 | The Greatest Common Divisor | https://py.checkio.org/en/mission/gcd |
 | Can Balance | https://py.checkio.org/en/mission/can-balance |
+| Disposable Teleports | https://py.checkio.org/en/mission/disposable-teleports |
