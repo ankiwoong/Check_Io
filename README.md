@@ -91,3 +91,4 @@ Can you dig it?
 | The Greatest Common Divisor | https://py.checkio.org/en/mission/gcd |
 | Can Balance | https://py.checkio.org/en/mission/can-balance |
 | Disposable Teleports | https://py.checkio.org/en/mission/disposable-teleports |
+| The Einstein Problem-Lite | https://py.checkio.org/en/mission/einstein-problem |
