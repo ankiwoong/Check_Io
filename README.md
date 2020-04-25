@@ -9,7 +9,6 @@ Those are the best!
 | Multiply(Intro) | https://py.checkio.org/en/mission/multiply-intro | https://developer-ankiwoong.tistory.com/853 |
 | Easy Unpack | https://py.checkio.org/en/mission/easy-unpack | https://developer-ankiwoong.tistory.com/854 |
 | First Word(simplified) | https://py.checkio.org/en/mission/first-word-simplified | https://developer-ankiwoong.tistory.com/855 |
-| Say Hi | https://py.checkio.org/en/mission/say-history | https://developer-ankiwoong.tistory.com/856 |
 | Correct Sentence | https://py.checkio.org/en/mission/correct-sentence | https://developer-ankiwoong.tistory.com/858 |
 | All Upper I | https://py.checkio.org/en/mission/all-upper | https://developer-ankiwoong.tistory.com/859 |
 | Acceptable Password I | https://py.checkio.org/en/mission/acceptable-password-i | https://developer-ankiwoong.tistory.com/860 |
@@ -92,3 +91,11 @@ Can you dig it?
 | Can Balance | https://py.checkio.org/en/mission/can-balance |
 | Disposable Teleports | https://py.checkio.org/en/mission/disposable-teleports |
 | The Einstein Problem-Lite | https://py.checkio.org/en/mission/einstein-problem |
+
+---
+
+# Polygon (0% / 100%)
+Here we place missions which are testing or reworking.
+| Title | URL | Solve |
+| :---: | :---: | :---: |
+| Say Hi | https://py.checkio.org/en/mission/say-history | https://developer-ankiwoong.tistory.com/856 |
